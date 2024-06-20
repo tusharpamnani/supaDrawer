@@ -85,7 +85,6 @@ SupaDrawer
 
    Other users joining the same channel will see your drawings and can draw simultaneously on the same canvas.
 
-
 ## File Descriptions
 
 ### `app/_layout.tsx`
@@ -104,15 +103,21 @@ The main drawing screen for a specific channel. This component handles the initi
 
 A custom component for the drawing board. It provides the canvas and drawing functionalities, and exposes methods for handling drawing events.
 
+## Demo
+
+Check out the video demo of the main app in action:
+
+| ![SupaDrawer Demo 1](/assets/supa1.gif) | ![SupaDrawer Demo 2](/assets/supa2.gif) |
+|:---------------------------------------:|:---------------------------------------:|
+
 ## Contributing
 
 Contributions are welcome! Feel free to submit a pull request or open an issue to improve the project.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT](LICENSE) License.
 
 ---
 
 Happy drawing! 🎨
-
