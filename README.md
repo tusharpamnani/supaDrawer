@@ -13,7 +13,7 @@ SupaDrawer is a real-time multiplayer drawing board application built with React
 
 - **React Native**: For building the mobile application.
 - **Expo**: For development and building the app.
-- **Supabase**: For real-time database and user authentication.
+- **Supabase**: For real-time database.
 
 ## Getting Started
 
